@@ -1,0 +1,29 @@
+{
+  "name": "gulpstream",
+  "version": "1.0.0",
+  "description": "Gulp测试项目",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingKui/GlupStream.git"
+  },
+  "author": "kangbk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BingKui/GlupStream/issues"
+  },
+  "homepage": "https://github.com/BingKui/GlupStream#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.11",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-csslint": "^0.3.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-uglify": "^1.5.4",
+    "jshint": "^2.9.2"
+  }
+}
